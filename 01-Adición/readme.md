@@ -7,7 +7,8 @@
 
 *Solicitar al usuario que se ingresen los valores a sumar, almacernarlos en dos variables del tipo entero (int) y mostrar por consola el resultado de la suma de ambos.*
 
-## [Modelo IPO](https://drive.google.com/open?id=18nYVBR6hCSUzr6jGyvQmrBdTEExvDbNI)
+## Modelo IPO
+[Ver](https://drive.google.com/open?id=18nYVBR6hCSUzr6jGyvQmrBdTEExvDbNI)
 
 # Diseño de la Solución
 ## Léxico del Algoritmo
@@ -15,11 +16,13 @@
 
 ## Representación del Algoritmo
 
-## [Representación visual del algoritmo](https://drive.google.com/open?id=18NZBFAjC5H1sxyzk-Ewcl7mmtMuVHnPv)
+### Representación visual del algoritmo
 
-## Representación textual del algoritmo
+[Ver](https://drive.google.com/open?id=18NZBFAjC5H1sxyzk-Ewcl7mmtMuVHnPv)
 
-`#include <iostream>
+### Representación textual del algoritmo
+
+#include <iostream>
  
 int main () 
 {
@@ -35,4 +38,4 @@ int main ()
     std::cout << "\n";
     
     return 0;
-}`
+}
