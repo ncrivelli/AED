@@ -26,6 +26,7 @@ int main(){
     unsigned numPositivo2 = 4434;
     
     int suma = numero + numero2;
+    //Si la suma es positiva, se cumple la condición del assert y el programa sigue con su ejecución.
     assert(suma>0);
     positivo = true;
     negativo = false;
