@@ -15,4 +15,8 @@
 *anio ∊ Z; isBisiesto ∊ B*
 
 ## Definición
-*isBisiesto: Z -> B : m ∧ (p ∧ ( -q ∨ r) ; m:año mayor a 1582, p:año divisible por 4, q:año divisible por 100, r: año divisible por 400*
+*isBisiesto: Z -> B : m ∧ (p ∧ ( -q ∨ r)
+m:año mayor a 1582
+p:año divisible por 4
+q:año divisible por 100
+r: año divisible por 400*
