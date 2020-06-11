@@ -7,10 +7,11 @@
 
 *Para poder desarrollar la función nos basaremos en las condiciones necesarias para que un año sea bisiesto, las cuales son que el mismo sea mayor a 1582 y además, sea divisible por 4 y no por 100 o sea divisible por 4 y por 400.*
 
+# Diseño de la Solución
+
 ## Arbol de expresión
 ![arbol 09](https://user-images.githubusercontent.com/63763410/84338485-96a15b80-ab72-11ea-8744-4d7c3b35cb55.PNG)
 
-# Diseño de la Solución
 ## Léxico del Algoritmo
 *anio ∊ Z; isBisiesto ∊ B*
 
