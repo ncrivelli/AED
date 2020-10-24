@@ -13,7 +13,7 @@ int main() {
 	assert(isIgual({2,9},{2,9}));
 
 	//pruebas para getDistancia
-	assert(!(getDistancia({3,1},{2,7}) == 9));
+	assert(getDistancia({0,1},{0,7}) == 6);
 	assert(getDistancia({0,1},{3,5}) == 5);
 
 	//pruebas para getDistanciaAlOrigen
